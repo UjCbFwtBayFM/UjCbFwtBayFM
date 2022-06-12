@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: ujcbfwtbayfm.github.io
-Token: c7ce16238cc2af3adb56c54a8c36a5b660d7759f4d7578536c4020691ab8c51e
+Token: 53e1cc50b9cc53b5ae44601258e6758e551acd2a393d307b5cb98f38e44fa604
